@@ -1,0 +1,27 @@
+/* main, p{
+    color:aqua
+} */
+
+/* *{
+    color:blue
+} */
+
+.color{
+    color:blueviolet
+}
+
+#item{
+    text-align: center;
+}
+
+#items{
+    text-align: right;
+}
+
+#items_1{
+    text-align: justify;
+}
+
+section, article, strong, em{
+    color:aliceblue
+}
