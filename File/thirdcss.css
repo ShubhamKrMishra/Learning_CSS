@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    color:aqua
+}
+
+#section1{
+    background-color: brown;
+}
+
+#section2{
+    background-color: blue;
+}
+
+.para{
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+#section3{
+    background-color: azure;
+}
+
+.para2{
+    color:yellowgreen
+}
+
+.paracenter{
+    text-align: center;
+}
+
+#div1{
+    background-color: rgba(red, green, blue, 0.2);
+    height: 400px;
+}
+span{
+    background-color: #19427d;
+}
